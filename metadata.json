@@ -1,0 +1,5 @@
+{
+  "name": "Shorty - Downloader URL Shortener",
+  "description": "A powerful URL shortener optimized for the Downloader app, providing numeric codes and short links for easy sharing.",
+  "requestFramePermissions": []
+}
